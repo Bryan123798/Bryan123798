@@ -72,6 +72,11 @@
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" 
-       alt="linux" width="60px"/> 
+    width="60px" 
+    alt="linux"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" 
+     width="60px" 
+     alt="mongodb"/>
+
 </a>
 
