@@ -41,10 +41,8 @@
     width="60px"
     alt="css3">
     &nbsp;&nbsp;&nbsp;&nbsp;
-  
   <!-- Frameworks -->
   </br>
-  <h3>Frameworks</h3>
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"
     width="60px"
@@ -60,10 +58,8 @@
     width="60px"
     alt="Laravel">
     &nbsp;&nbsp;&nbsp;&nbsp;
-  
 <!-- Storages -->
   </br>
-  <h3>Storages</h3>
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
     width="60px"
@@ -74,3 +70,8 @@
     width="60px"
     alt="PostgreSQL">
     &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" 
+       alt="linux" width="40" height="40"/> 
+</a>
+
