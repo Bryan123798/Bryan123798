@@ -87,5 +87,5 @@
 ---
 
 ## 📫 Conecta conmigo
-- LinkedIn: [Tu LinkedIn aquí](https://www.linkedin.com/in/tu-perfil)
-- Email: bryan.tucorreo@example.com
+- LinkedIn: [Tu LinkedIn aquí](https://www.linkedin.com/in/bryan-david-cuellar-diaz-906760249/)
+- Email: bdcdiaz@gmail.com
